@@ -1,4 +1,3 @@
-
 # 🏠 Quickstay
 
 A full-stack accommodation booking platform inspired by Airbnb, built using Next.js and modern web technologies.
@@ -21,7 +20,7 @@ A full-stack accommodation booking platform inspired by Airbnb, built using Next
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** Next.js, React, TypeScript
+- **Frontend:** Next.js, React, JavaScript
 - **Styling:** Tailwind CSS
 - **Authentication:** Better Auth
 - **Database:** PostgreSQL
@@ -31,4 +30,10 @@ A full-stack accommodation booking platform inspired by Airbnb, built using Next
 - **Date Picker:** React Date Range
 - **Deployment:** Vercel
 
+## ⚙️ Getting Started
 
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Squirtle0204/quickstay.git
+cd quickstay
