@@ -31,10 +31,4 @@ A full-stack accommodation booking platform inspired by Airbnb, built using Next
 - **Date Picker:** React Date Range
 - **Deployment:** Vercel
 
-## ⚙️ Getting Started
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/Squirtle0204/quickstay.git
-cd quickstay
